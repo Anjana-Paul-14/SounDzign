@@ -1,5 +1,5 @@
 # React and Vite Responsive Website
-This project is a front-end website built using React and Vite, designed to be responsive for smartphones, tablets, and desktops.
+This project "SounDzign" is a front-end website built using React and Vite, designed to be responsive for smartphones, tablets, and desktops.
 
 ## Introduction
 
