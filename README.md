@@ -13,4 +13,4 @@ The React and Vite Responsive Website is a modern front-end project that utilize
 
 ## Project Link
 
-Find the project on GitHub: https://anjanareactfrontend.netlify.app
+Find the project on GitHub: https://anjana-soundzign.netlify.app
